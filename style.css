@@ -1,0 +1,38 @@
+body{
+    background-color:lightsalmon;
+    display: inline;
+    text-align: center; 
+}
+h1{
+    display: inline;
+    font-size: 1000%;
+    background-color: white;
+    width: 100px;
+}
+#texthere{display: inline;
+    font-size: 200%;
+    background-color: white;
+    width: 100px;
+    margin-top: 40px;
+    margin-left: 40%;
+    padding-left: 1%;
+    width: 300px;
+
+
+}
+button {
+    padding: 15px 25px;
+    font-size: 24px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: rebeccapurple;
+    background-color: #a7aa04;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px blue;
+  }
+  
+button:hover {background-color: #3e8e41}
+  
+  
